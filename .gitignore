@@ -3,3 +3,7 @@
 __pycache__
 *.db
 *.pytest_cache
+*.zip
+base_dir/
+HAM10000_images_part_1/
+HAM10000_images_part_2/
