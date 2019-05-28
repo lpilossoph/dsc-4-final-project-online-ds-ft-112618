@@ -11,10 +11,6 @@
 
 Utilizing the HAM10000 dataset, a vast collection of multi-source dermatoscopic images of malignany and benign skin lesions, I was able to build a neural network that classified skin lesions risk as either low-risk, moderate-risk, and severe-risk with relatively high accuracy. I utilized both a pre-trained network as well as a network that I built from scratch, which handled such issues as class-imbalance, overfitting, and improving recall, to name a few. 
 
-# Results
-
-
-
 # Use Cases
 
 The ability to classify skin lesions by relative risk would be extremely helpful to clinicians as an added resource to their own clinical judgement. Utilization of this tool by clinicians could cut down on healthcare costs by limiting the number of unnecessary skin biopsies performed on patients. Additionally, those patients who reside in rural areas where a trip to the dermatologist may inconveniently mean taking an entire day from work could benefit from utilization of this tool as well, as any lesion not assessed as low-risk woul theoretically be taken seriously leading to scheduling an appointment to assess the lesion as soon as possible. 
