@@ -1,5 +1,5 @@
 # Skin Lesion Image Risk Classifier - A Dermatologic Assessment Tool for Patients and Clinicians 
-![SL](chrome://global/skin/media/imagedoc-darknoise.png)
+![SL](https://www.platinumdermatology.com.au/wp-content/uploads/2015/04/header_0007_Skin-assessment-_-analysis.jpg)
 
 # Motivation
 
